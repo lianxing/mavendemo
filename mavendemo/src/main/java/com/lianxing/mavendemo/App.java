@@ -9,4 +9,8 @@ public class App
     {
         System.out.println( "Hello LiAnxing " );
     }
+    
+    public void Xing(){
+        System.out.println( "AAA" );
+    }
 }
