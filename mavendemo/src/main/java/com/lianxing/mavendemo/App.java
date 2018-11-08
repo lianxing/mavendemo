@@ -13,4 +13,8 @@ public class App
     public void Xing(){
         System.out.println( "AAA" );
     }
+    
+    public void Hong(){
+        System.out.println( "BBBB" );
+    }
 }
