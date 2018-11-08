@@ -1,13 +1,7 @@
 package com.lianxing.mavendemo;
 
 /**
-<<<<<<< HEAD
- * Hello world!
- * aaaaaa
-=======
- * Hello world!  lianxing
- * aa
->>>>>>> branch 'master' of https://github.com/lianxing/mavendemo.git
+ * 支付方法
  */
 public class App 
 {
