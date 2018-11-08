@@ -2,7 +2,7 @@ package com.lianxing.mavendemo;
 
 /**
  * Hello world!
- * aa
+ * aaaaaa
  */
 public class App 
 {
